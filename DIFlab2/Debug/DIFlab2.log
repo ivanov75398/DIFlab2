@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\files\git\diflab2\diflab2\main.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\files\git\diflab2\diflab2\main.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DIFlab2.vcxproj -> D:\Files\git\DIFlab2\Debug\DIFlab2.exe
+  DIFlab2.vcxproj -> D:\Files\git\DIFlab2\Debug\DIFlab2.pdb (Full PDB)
